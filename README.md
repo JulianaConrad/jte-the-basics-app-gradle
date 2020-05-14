@@ -1,3 +1,3 @@
 # jte-the-basics-app-gradle
 
-changing for test branch 
+changing for test branch take 2 
